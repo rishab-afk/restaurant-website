@@ -1,2 +1,2 @@
 # restaurant-website
-This project is a restaurant website create using Html,Css.
+This project is a restaurant website created using Html,Css.
